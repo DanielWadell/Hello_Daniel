@@ -1,7 +1,7 @@
 ## Hello_Daniel
 
 ### App Description
-`TODO:// mobile app development for ios
+ mobile app development for ios
 
 ### App Walk-though
 
