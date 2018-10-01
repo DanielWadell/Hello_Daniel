@@ -6,8 +6,7 @@
 ### App Walk-though
 
 <img src="blob:https://imgur.com/7d4f1351-46e7-44bf-9312-64bd959c65a5" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+ 
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
